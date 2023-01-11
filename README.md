@@ -2,7 +2,7 @@
 <p>So I'm Naomi Ibe(NayOhMee), I began my tech journey in January of 2022 with frontend web development but decided to switch to backend development.I'm practically a self-taught developer who's passionate about tech,with acombined total of 12 months experience(frontend and backend). I can write code in C, Python and very basic Javascript. I also know HTML and CSS, as i initially started my tech journey with frontend development. I'm currently a software engineering student at ALX-Africa, and and expanding my knowledge on software development through hands-on training. I'm in cohort 9 which began in August of 2022 who's looking to specialize in backend development.</p>
 
 - 😄 Pronouns: She/Her/Female
-- 🔭 I’m currently working on a food order site using django
+- 🔭 I’m currently working on a restaurant meal ticket booking system using Python's OOP 
 - 🌱 I’m currently learning C and Python
 - 📫 How to reach me (via mail): "naomi.ibeh69@gmail.com"
 - ⚡ Fun fact: I'm funny
@@ -29,6 +29,7 @@
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amarajah&show_icons=true&theme=transparent) <br>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amarajah)](https://github.com/anuraghazra/github-readme-stats) <br>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lexxyla&" alt="lexxyla" /></p>
  
 <!--
 **Amarajah/Amarajah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
