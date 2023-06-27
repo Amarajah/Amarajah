@@ -1,8 +1,15 @@
 <h1 align="center"> Hi there 👋, Naomi here</h1>
-<p>So I'm Naomi Ibe(NayOhMee), I began my tech journey in January of 2022 with frontend web development but decided to switch to backend development.I'm practically a self-taught developer who's passionate about tech,with acombined total of 12 months experience(frontend and backend). I can write code in C, Python and very basic Javascript. I also know HTML and CSS, as i initially started my tech journey with frontend development. I'm currently a software engineering student at ALX-Africa, and and expanding my knowledge on software development through hands-on training. I'm in cohort 9 which began in August of 2022 who's looking to specialize in backend development.</p>
+<p>As a software engineer in training at @alx_africa, I possess a strong background in backend development with specialized expertise in Python. I have also acquired ample knowledge in front-end development to complement my skillset.
 
+My name is Naomi Ibe, (NayOhMee), and I am a passionate self-taught software developer with 13 months experience in backend development. My expertise lies in coding with C, Python, Javascript, Shell scripting and also use of the CLI while also having a solid foundation in HTML and CSS which I initially started with during my frontend development journey.
+
+Currently, I am pursuing a degree in software engineering at ALX-Africa, where I am expanding my knowledge on software development through participating in practical, hands-on training. My pronouns are She/Her/Female.
+
+At the moment, I am working on a url shortener app with GUI using HTML, CSS, JavaScript, and Django. I am also actively learning Javascript and Python{Django} to hone my skills further.
+
+If you would like to reach me, you can send me an email at "naomi.ibeh69@gmail.com." On a fun note, I am known to be funny and enjoy bringing laughter into people's lives.</p>
 - 😄 Pronouns: She/Her/Female
-- 🔭 I’m currently working on a video conference app using HTML, CSS, JavaScript and Django
+- 🔭 I’m currently working on a url shortener app using HTML, CSS, JavaScript and Django
 - 🌱 I’m currently learning Javascript and Python{Django}
 - 📫 How to reach me (via mail): "naomi.ibeh69@gmail.com"
 - ⚡ Fun fact: I'm funny
