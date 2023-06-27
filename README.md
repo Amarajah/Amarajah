@@ -1,7 +1,5 @@
 <h1 align="center"> Hi there 👋, Naomi here</h1>
-<p>As a software engineer in training at @alx_africa, I possess a strong background in backend development with specialized expertise in Python. I have also acquired ample knowledge in front-end development to complement my skillset.
-
-My name is Naomi Ibe, (NayOhMee), and I am a passionate self-taught software developer with 13 months experience in backend development. My expertise lies in coding with C, Python, Javascript, Shell scripting and also use of the CLI while also having a solid foundation in HTML and CSS which I initially started with during my frontend development journey.
+<p>My name is Naomi Ibe, (NayOhMee), and I am a passionate self-taught software developer with 13 months experience in backend development. My expertise lies in coding with C, Python, Javascript, Shell scripting and also use of the CLI while also having a solid foundation in HTML and CSS which I initially started with during my frontend development journey.
 
 Currently, I am pursuing a degree in software engineering at ALX-Africa, where I am expanding my knowledge on software development through participating in practical, hands-on training. My pronouns are She/Her/Female.
 
