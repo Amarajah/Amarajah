@@ -16,7 +16,7 @@ If you would like to reach me, you can send me an email at "naomi.ibeh69@gmail.c
 <h2 align="center">Connect With Me</h2>
 <p align="center">
 <a href="https://twitter.com/Amarajah7" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/1384/1384065.png" alt="twitter-logo" height="40" width="40"/></a>
-<a href="https://linkedin.com/in/naomi-ibe-375935239" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" alt="linkedin-logo" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/ibe-naomi" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" alt="linkedin-logo" height="40" width="40" /></a>
 <a href="https://instagram.com/naomi_amarachi" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/174/174855.png" alt="instagrm-logo" height="40" width="40" /></a>
 </p>
 
