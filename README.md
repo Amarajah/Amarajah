@@ -3,7 +3,7 @@
 
 Currently, I am pursuing a degree in software engineering at ALX-Africa, where I am expanding my knowledge on software development through participating in practical, hands-on training. My pronouns are She/Her/Female.
 
-I created a video conferencing app called "<i>Hy!<i>", this is the link to the live site https://hyapp.pythonanywhere.com  (Please check it out and leave a review :))
+I created a video conferencing app called "Hy!", this is the link to the live site https://hyapp.pythonanywhere.com  and here is the github link https://github.com/Amarajah/Hy-Web-App (Please check it out and leave a review :))
 
 At the moment, I am working on a url shortener app with GUI using HTML, CSS, JavaScript, and Django. The CLI version is here =>> https://github.com/Amarajah/python-practice/blob/main/main.py
 
