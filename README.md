@@ -1,16 +1,20 @@
 <h1 align="center"> Hi there 👋, Naomi here</h1>
-<p>My name is Naomi Ibe, (NayOhMee), and I am a passionate self-taught software developer with 13 months experience in backend development. My expertise lies in coding with C, Python, Javascript, Shell scripting and also use of the CLI while also having a solid foundation in HTML and CSS which I initially started with during my frontend development journey.
+<p>My name is Naomi Ibe, (NayOhMee), and I am a passionate self-taught software developer with 13 months experience in backend development. My expertise lies in coding with C, Python, Javascript, Shell scripting and also use of the CLI while also having a solid foundation in HTML and CSS which I initially started with during my frontend development journey. I've also worked with technologies like Puppet, Ruby, NodeJS, MongoDB and MySQL.
 
 Currently, I am pursuing a degree in software engineering at ALX-Africa, where I am expanding my knowledge on software development through participating in practical, hands-on training. My pronouns are She/Her/Female.
 
-At the moment, I am working on a url shortener app with GUI using HTML, CSS, JavaScript, and Django. I am also actively learning Javascript and Python{Django} to hone my skills further.
+I created a video conferencing app called "<i>Hy!<\i>", this is the link to the live site https://hyapp.pythonanywhere.com  (Please check it out and leave a review :))
 
-If you would like to reach me, you can send me an email at "naomi.ibeh69@gmail.com." On a fun note, I am known to be funny and enjoy bringing laughter into people's lives.</p>
+At the moment, I am working on a url shortener app with GUI using HTML, CSS, JavaScript, and Django. The CLI version is here =>> https://github.com/Amarajah/python-practice/blob/main/main.py
+
+I am also actively learning Javascript, Python{Django} and MySQL to hone my skills further.
+
+If you would like to reach me, you can send me an email at "naomi.ibeh69@gmail.com" I am known to be funny and enjoy bringing laughter into people's lives.</p>
 - 😄 Pronouns: She/Her/Female
-- 🔭 I’m currently working on a url shortener app using HTML, CSS, JavaScript and Django
-- 🌱 I’m currently learning Javascript and Python{Django}
+- 🔭 I’m currently working on a url shortener app using HTML, vanilla CSS, vanilla JavaScript and Django
+- 🌱 I’m currently learning Javascript, MySQL and Python{Django}
 - 📫 How to reach me (via mail): "naomi.ibeh69@gmail.com"
-- ⚡ Fun fact: I'm funny
+- ⚡ Fun fact: I'm funny and I LOVEEEE Animals
 
 
 <h2 align="center">Connect With Me</h2>
