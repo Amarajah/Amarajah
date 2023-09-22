@@ -34,6 +34,8 @@ If you would like to reach me, you can send me an email at "naomi.ibeh69@gmail.c
 <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/128/2333/2333187.png" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="python" width="40" height="40"/> </a>
 <a href="https://www.github.com" target = "blank"><img src="https://cdn-icons-png.flaticon.com/128/270/270798.png" alt="github" width="40" height="40"></a>
+ <a href="https://www.djangoproject.com/" target = "blank"><img src="https://www.flaticon.com/free-icon/django_9307630" alt="django" width="40" height="40"></a>
+ <a href="https://www.mysql.com/i" target = "blank"><img src="https://www.flaticon.com/free-icon/mysql_919836" alt="mysql" width="40" height="40"></a>
  </p>
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amarajah&show_icons=true&theme=transparent) <br>
