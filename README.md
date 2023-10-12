@@ -9,6 +9,8 @@ At the moment, I am working on a url shortener app with GUI using HTML, CSS, Jav
 
 I am also actively learning Javascript, Python{Django} and MySQL to hone my skills further.
 
+Please click <a href="https://docs.google.com/document/d/1YE2zxhiHMJ_vWU5ohb2Z6QXuZ1cziCN3oMPByOJszb8/edit#heading=h.ymi089liagec" target="_blank">here</a> to view my resume.
+
 If you would like to reach me, you can send me an email at "naomi.ibeh69@gmail.com" I am known to be funny and enjoy bringing laughter into people's lives.</p>
 - 😄 Pronouns: She/Her/Female
 - 🔭 I’m currently working on a url shortener app using HTML, vanilla CSS, vanilla JavaScript and Django
