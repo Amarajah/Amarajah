@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋, Naomi here</h1>
 <p>My name is Naomi Ibe, (NayOhMee), and I am a passionate self-taught software developer with 24 months experience in backend development. My expertise lies in coding with C, Python, Javascript, Shell scripting and also use of the CLI while also having a solid foundation in HTML and CSS which I initially started with during my frontend development journey. I've also worked with technologies like Puppet, Ruby, NodeJS, MongoDB and MySQL.
 
-Currently, I am a software engineering graduate at ALX-Africa, where I expanded my knowledge on software development through participating in practical, hands-on training. My pronouns are She/Her/Female.
+Currently, I am a software engineering graduate of ALX-Africa, where I expanded my knowledge on software development through participating in practical, hands-on training. My pronouns are She/Her/Female.
 
 I created a video conferencing app called "Hy!", this is the link to the live site https://hyapp.pythonanywhere.com  and here is the github link https://github.com/Amarajah/Hy-Web-App (Please check it out and leave a review :))
 
